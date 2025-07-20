@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitrajit-sarkar
 - 👀 I’m interested in Software Development, Data Engineering and Analytics
-- 🌱 I’m currently learning ...as above
+- 🌱 I’m currently learning ...and applying
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Amitrajit@yahoo.com
 
